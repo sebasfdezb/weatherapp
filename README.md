@@ -24,7 +24,7 @@ Una aplicación meteorológica elegante y minimalista que proporciona datos clim
 
 <h2 align="center">🎥 GIF de la Aplicación del Tiempo</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sebasfdezb/weatherapp/main/Weather%20App/VideoGIF.gif" alt="GIF de la Aplicación del Tiempo" />
+    <img src="[https://raw.githubusercontent.com/sebasfdezb/weatherapp/main/Weather%20App/VideoGIF.gif](https://github.com/sebasfdezb/weatherapp/blob/3d2fbae73c11b54912d633d75cca69efe26b17d2/VideoGIF.gif)" alt="GIF de la Aplicación del Tiempo" />
 </p>
 
 ## ✒️ Autor
