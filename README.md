@@ -22,6 +22,11 @@ Una aplicación meteorológica elegante y minimalista que proporciona datos clim
 
 * Soporte para la tecla **"Enter"** para realizar búsquedas rápidas sin necesidad de usar el ratón.
 
+<h2 align="center">🎥 GIF de la Aplicación del Tiempo</h2>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sebasfdezb/weatherapp/main/Weather%20App/VideoGIF.gif" alt="GIF de la Aplicación del Tiempo" />
+</p>
+
 ## ✒️ Autor
 
 Proyecto desarrollado con dedicación por **Sebastián Fernández Buelvas** (`@sebferna`).
